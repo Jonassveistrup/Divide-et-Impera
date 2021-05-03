@@ -1,1 +1,1 @@
-# Divide-et-Impera
+Appendix A for the paper: Divide et Impera: Structuring Design Science Research Projects
